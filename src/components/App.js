@@ -8,4 +8,13 @@ function App() {
     }, []);
 }
 
+return <div>
+    <p>
+        Loading...
+    </p>
+    <img>
+        
+    </img>
+</div>
+
 export default App;
